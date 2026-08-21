@@ -1,0 +1,17 @@
+# Local, personal configuration (see config.example.py)
+config.py
+
+# Windows shortcuts that may embed local paths
+*.lnk
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
